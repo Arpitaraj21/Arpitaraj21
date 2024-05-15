@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpita Raj
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript and frameworks.
+- 🌱 I’m currently learning Node js.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me @arpitaraj.3114@gmail.com
 
