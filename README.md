@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Node js.
 - 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me @arpitaraj.3114@gmail.com
+- 📫 How to reach me @singh.arpitaraj2001@gmail.com
 
 <!---
 Arpitaraj21/Arpitaraj21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
